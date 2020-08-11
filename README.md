@@ -11,7 +11,7 @@ A estudantes de ciência de dados  e universitária de ciência da computacao
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:
-* [LinkedIn](https://www.linkedin.com/in/laura-katiuscia925b2675
+* [LinkedIn](https:https://www.linkedin.com/in/laura-katiuscia-925b2675/)
 * [Medium](https://www.medium.com)
 
 
