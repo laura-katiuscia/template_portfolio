@@ -10,9 +10,8 @@
 A estudantes de ciência de dados  e universitária de ciência da computacao
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
-**Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+**Links:
+* [LinkedIn](https://www.linkedin.com/in/laura-katiuscia
 * [Medium](https://www.medium.com)
 
 
